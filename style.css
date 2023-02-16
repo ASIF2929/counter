@@ -1,0 +1,44 @@
+body{
+    background: linear-gradient(45deg,rgb(0, 120, 153),rgb(43, 134, 218),aquamarine);
+    height: 100vh;
+}
+div{
+    background-color: aquamarine;
+    border: 4px double rgb(0, 120, 153);
+    width: fit-content;
+    text-align: center;
+    position: relative;
+    left: 500px;
+    top: 180px;
+    padding: 50px;
+    padding-top: ;
+    border-radius: 50px;
+}
+h1{
+    font-family: cursive;
+    padding: 10px;
+    font-size: 80px;
+    margin-top: 0;
+}
+h2{
+    font-family: cursive;
+    font-size: 50px;
+    text-decoration: bisque;
+    text-align: center;
+    position: relative;
+    top: 120px;
+    margin: 0;
+}
+button{
+    font-family: cursive;
+    width: 100px;
+    height: 40px;
+    background-color: rgb(43, 134, 218);
+    border-style: none;
+    margin: 5px;
+    border-radius: 50px;
+}
+button:hover{
+    background-color:cornflowerblue;
+    transition: 1s;
+}
